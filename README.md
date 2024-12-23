@@ -1,4 +1,7 @@
 # 
-Hi, This is a complete backend.
-Given repository show how we can create production level backend code.
+This is the guide how you can create prod ready backend code.
+
+
+-> File upload using multer
+Upload image first temporarly on server, then move them to the cloudinary.
 
